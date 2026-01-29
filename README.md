@@ -12,7 +12,13 @@
 
 ###
 
-<p align="left">Sou formado em Publicidade e Propaganda pela Universidade de Fortaleza e, atualmente, estou expandindo meus horizontes acadêmicos e profissionais cursando Análise e Desenvolvimento de Sistemas, também pela Universidade de Fortaleza.<br>Minha carreira começou na comunicação, mas com o tempo, descobri uma paixão pelo desenvolvimento de software, especialmente na área de back-end. Sempre fui alguém que gosta de entender como as coisas funcionam por trás dos panos e de resolver problemas complexos, então, migrar para o campo da tecnologia foi um passo natural para mim.</p>
+<p align="left">
+Sou Desenvolvedor Front-end com experiência prática em aplicações web em produção, atuando principalmente com <strong>React, Next.js e Svelte</strong>, além de integração com <strong>APIs REST</strong> e testes automatizados.
+<br><br>
+Atuei no desenvolvimento de um <strong>dApp de staking multi-chain</strong> e atualmente participo de um projeto de <strong>inovação digital do SUS</strong>, trabalhando como <strong>Desenvolvedor Full Stack</strong> na construção de um sistema de painel de chamadas de emergência com <strong>React, TypeScript, Java e Spring Boot</strong>.
+<br><br>
+Tenho formação em <strong>Publicidade e Propaganda</strong>, com base sólida em <strong>UX/UI e visão de produto</strong>, o que complementa meu perfil técnico. Busco escrever código organizado, focado em qualidade, testes e soluções simples para problemas reais.
+</p>
 
 ###
 
