@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-Sou Desenvolvedor Front-end com experiência prática em aplicações web em produção, atuando principalmente com <strong>React, Next.js e Svelte</strong>, além de integração com <strong>APIs REST</strong> e testes automatizados.
+Sou Desenvolvedor Full Stack com experiência prática em aplicações web em produção, atuando principalmente com <strong>React, Next.js e Svelte</strong>, além de integração com <strong>APIs REST</strong> e testes automatizados.
 <br><br>
 Atuei no desenvolvimento de um <strong>dApp de staking multi-chain</strong> e atualmente participo de um projeto de <strong>inovação digital do SUS</strong>, trabalhando como <strong>Desenvolvedor Full Stack</strong> na construção de um sistema de painel de chamadas de emergência com <strong>React, TypeScript, Java e Spring Boot</strong>.
 <br><br>
